@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1716632559 source:c:\users\rober\desktop\string_distance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"func.h"
+
+1716630452 c:\users\rober\desktop\string_distance\func.h
+
+1716632271 source:c:\users\rober\desktop\string_distance\func.c
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"func.h"
+
+1716657496 source:c:\users\nicus\desktop\string_distance (2)\string_distance\func.c
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"func.h"
+
+1716630452 c:\users\nicus\desktop\string_distance (2)\string_distance\func.h
+
+1716655557 source:c:\users\nicus\desktop\string_distance (2)\string_distance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"func.h"
+
+1716828835 source:c:\users\nicus\desktop\string_distance\string_distance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"func.h"
+
+1716630452 c:\users\nicus\desktop\string_distance\string_distance\func.h
+
+1716828599 source:c:\users\nicus\desktop\string_distance\string_distance\func.c
+	<sys/types.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"func.h"
+
